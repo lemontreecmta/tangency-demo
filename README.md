@@ -1,6 +1,10 @@
 # tangency-demo
 demo of 2d behaviors of tangency of polygons (for Differential Geometry)
 
+###External jar library
+
+objectdraw: a package that runs a 2d graphic interface from a java program. More information can be found [here](http://eventfuljava.cs.williams.edu/).
+
 ###Installation
 
 ####HTML

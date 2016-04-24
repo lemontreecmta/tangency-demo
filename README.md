@@ -12,6 +12,8 @@ To run a demo on HTML setting, run the HTML file on a web browser.
 Java will usually ask if you want to run it, in case you will answer yes.
 
 ####Command Line
+
+Currently runnable files are DoubleTangencyDemo, DoubleTangencyDemo2, SelfTangencyDemo, and PolygonDemo.
 To run in cmd, type the following (NameOfFile is the Demo you want to see): 
 
 For window: `java -cp .;objectdraw.jar NameOfFile`
